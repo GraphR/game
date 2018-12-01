@@ -1,3 +1,7 @@
 Console.WriteLine("Hello World");
 Console.WriteLine("Hello Ever");
+<<<<<<< HEAD
 Console.WriteLine("Hello dude");
+=======
+Console.WriteLine("Hello nobody");
+>>>>>>> origin/master
